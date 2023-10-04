@@ -22,7 +22,7 @@ The project is a landing page consists of four main sections:
   - `h2` heading title
   - Three columns each one containing:
     - `h3` heading
-    - An image
+    - An image as link
     - A paragraph as a brief description of the landmark 
   
 - **Section three** is a container of activities, it contains:
@@ -55,7 +55,7 @@ The project built with:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox for aligning elements
-- Hover pseudo class on landmarks images
+- Hover pseudo class on landmarks
 - [Font awesome](https://fontawesome.com/) icons in activities section
 - Colors used: [Color Palette](https://coolors.co/ffffff-f1fafe-a8dadc-457b9d-1d3557)
 - Media Queries for both desktop and mobile devices<br>
