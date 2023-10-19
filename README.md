@@ -1,5 +1,5 @@
 # Hometown Homepage
-This is my hometown homepage solo project for [Scrimba](https://scrimba.com/learn/htmlandcss) Learn HTML and CSS course.<br>
+My hometown homepage solo project for [Scrimba](https://scrimba.com/learn/htmlandcss) Learn HTML and CSS course.<br>
 <br>
 
 ## Preview 
