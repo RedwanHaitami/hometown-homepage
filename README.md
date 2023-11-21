@@ -60,15 +60,6 @@ The project built with:
 - Colors used: [Color Palette](https://coolors.co/ffffff-f1fafe-a8dadc-457b9d-1d3557)
 - Media Queries for both desktop and mobile devices<br>
 <br>
-
-## What was learned
-
-The course in general was very interesting to me through: 
-
-- Building four awesome projects more than the solo project.
-- Solving interactive coding challenges.
-- Learning to use new skills in my solo project like [Figma](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0-1&mode=design) tool.<br>
-  <br>
   
 ## Attributions
 
